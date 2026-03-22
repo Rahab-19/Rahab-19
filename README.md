@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Data+science;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Data+Analyst;Turning+Data+into+Actionable+Insights;[Data+Analyst+%20Visualisation];[Aspiring+Data+Analyst=%7c+SQL%2C+Excel=%26+Python]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,7 +13,8 @@
 </p>
 
 ## 🚀 About Me 
-I am an aspiring data analyst with a background in healthcare, skilled in Python, SQL, and Power BI. I have hands-on experience in data analysis, machine learning, and data visualization through real-world projects such as fraud detection and sentiment analysis. I am passionate about using data to solve problems, uncover insights, and support better decision-making while continuously growing my skills in data science.
+I am an aspiring data analyst with skills in SQL, Excel and Python.
+Focused on turning raw data into insights and automation repetitive tasks. Currently transitioning from pharmacy into data science
 When I'm not working with data, I enjoy hiking, paddling, going to the gym, and spending time with family and friends. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
@@ -27,8 +28,8 @@ When I'm not working with data, I enjoy hiking, paddling, going to the gym, and 
 
 ## 🌱 Currently Learning 
 
-- Acquiring a Power BI certificate, advancing my visual skills using alison.com.]
-- [Oracl SQL Certificate, learning using Udemy .]
+- Acquiring a Power BI certificate, advancing my visual skills using alison.com.
+- Oracl SQL Certificate, learning using Udemy.
 
 ## 🛠️ Technical Skillset
 
