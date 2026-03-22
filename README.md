@@ -22,9 +22,9 @@ When I'm not working with data, I enjoy hiking, paddling, going to the gym, and 
       
 ## My Projects
 
-- **Project A:** [Credit Card Fraud Detection (ML) - Detects fraudulent transactions using machine learning models.]  
-- **Project B:** [Shelf Track (Python + SQL Bookstore System) - Manages bookstore inventory using Python and SQL.]
-- **Project C:** [Task Manager (Python File-Based System) - Manages tasks using file handling and user authentication.]
+- **Project A:** Credit Card Fraud Detection (ML) - Detects fraudulent transactions using machine learning models.
+- **Project B:** Shelf Track (Python + SQL Bookstore System) - Manages bookstore inventory using Python and SQL.
+- **Project C:** Task Manager (Python File-Based System) - Manages tasks using file handling and user authentication.
 
 ## 🌱 Currently Learning 
 
